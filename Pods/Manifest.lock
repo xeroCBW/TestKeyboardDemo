@@ -1,0 +1,15 @@
+PODS:
+  - MMNumberKeyboard (0.1.5)
+  - VENCalculatorInputView (1.5.4)
+
+DEPENDENCIES:
+  - MMNumberKeyboard
+  - VENCalculatorInputView (~> 1.5)
+
+SPEC CHECKSUMS:
+  MMNumberKeyboard: 12da79571d08aca21566534a74726c5469aed29a
+  VENCalculatorInputView: 988fa681ba6bb9b1f067842493bb622e80cc8da2
+
+PODFILE CHECKSUM: 1cb499e516ab4e32c32e32f0be73441e412e1c89
+
+COCOAPODS: 1.0.1
